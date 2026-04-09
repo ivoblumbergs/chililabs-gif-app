@@ -156,7 +156,7 @@ flutter test
 
 To try this app you can download the APK:
 
-> **[⬇️ Download APK](build/app-release.apk)**
+> **[⬇️ Download APK](app-release.apk)**
 
 Or if you don't want to install or build anything, I have provided you with a cloud emulator for mobile apps (appetize.io) where I uploaded the `.apk` file. I have to warn you — as I am on the free tier there is a time restriction of 3 minutes per session, but if you refresh the page the time resets.
 
